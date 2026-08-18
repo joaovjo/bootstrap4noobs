@@ -1,3 +1,11 @@
+<!-- Logo 4noobs -->
+
+<p align="center">
+  <a href="https://github.com/he4rt/4noobs" target="_blank">
+    <img src="./.github/header_4noobs.svg">
+  </a>
+</p>
+
 # 🅱️ Bootstrap4Noobs
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -5,17 +13,19 @@
 ![Feito com](https://img.shields.io/badge/feito%20com-%E2%98%95%20e%20CSS-orange.svg)
 ![Nível](https://img.shields.io/badge/n%C3%ADvel-absoluto%20zero-blueviolet.svg)
 
-> *"Você não precisa reinventar a roda. Precisa saber montar a roda que já existe."*
+<!-- ABOUT THE PROJECT -->
 
-## 👋 Bem-vindo(a)
+## Sobre o Projeto
+
+> *"Você não precisa reinventar a roda. Precisa saber montar a roda que já existe."*
 
 Se você já tentou centralizar uma `div` na unha, com CSS puro, às 2h da manhã, e quase desistiu de programar — este repositório é pra você.
 
 O **Bootstrap4Noobs** é um guia gratuito, open-source e em português, para tirar você do zero absoluto em **Bootstrap** (o framework CSS mais usado do mundo) e te deixar com base sólida pra montar interfaces responsivas rápido, sem depender de decoreba de classe e sem magia obscura.
 
-Este projeto é irmão de outros guias da família **4noobs** (como `git4noobs`, `react4noobs` e `cybersec4noobs`) — mesma filosofia: **direto ao ponto, sem economês, com analogias do mundo real e humor de dev saudável.**
+Este projeto é irmão de outros guias da família **4noobs** (como `git4noobs`, `react4noobs` e `javascript4noobs`) — mesma filosofia: **direto ao ponto, sem economês, com analogias do mundo real e humor de dev saudável.**
 
-## 🎯 Para quem é esse repositório?
+### Para quem é esse repositório?
 
 - Quem está começando em front-end e ouviu falar de Bootstrap, mas nunca usou de verdade;
 - Quem já usa Bootstrap "copiando e colando" do site oficial e quer entender o porquê das coisas;
@@ -24,7 +34,9 @@ Este projeto é irmão de outros guias da família **4noobs** (como `git4noobs`,
 
 Não é necessário saber CSS avançado. Ajuda saber o básico de HTML/CSS, mas o Módulo 1 já nivela isso.
 
-## 🗺️ Roadmap / Grade Curricular
+<!-- ROADMAP OF PROJECT -->
+
+## ROADMAP
 
 | # | Módulo | O que você vai aprender | Nível |
 |---|--------|--------------------------|-------|
@@ -37,36 +49,30 @@ Não é necessário saber CSS avançado. Ajuda saber o básico de HTML/CSS, mas 
 
 > 💡 **Dica:** siga a ordem. Ninguém aprende Componentes (Módulo 3) direito sem entender o Grid System (Módulo 2) antes — é a fundação de tudo no Bootstrap.
 
-## 📚 Como usar este repositório
+<!-- CONTRIBUTING -->
 
-1. Clone ou só leia direto no GitHub.
-2. Siga os módulos na ordem. Cada um termina com uma seção **Mão na Massa 🛠️** com exercícios reais de código.
-3. Abra o código de exemplo no navegador enquanto lê — Bootstrap se aprende vendo a tela mudar, não só lendo texto.
-4. Terminou tudo? Vá pro [Módulo 6](modulos/06-projetos-praticos-proximos-passos/README.md) e construa dois projetos completos.
+## Como Contribuir
 
-Recursos extras:
-- 📖 [Glossário](recursos/glossario.md) — termos técnicos traduzidos pra gente de verdade.
-- 🧰 [Ferramentas recomendadas](recursos/ferramentas-recomendadas.md) — editores, extensões e sites úteis, tudo gratuito.
+Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições são extremamente apreciadas.
 
-## 🤝 Como Contribuir
+1. Realize um Fork do projeto;
+2. Crie um branch com a nova feature (`git checkout -b feature/featureBraba`);
+3. Realize o Commit (`git commit -m 'Add some featureBraba'`);
+4. Realize o Push no Branch (`git push origin feature/featureBraba`);
+5. Abra um Pull Request.
 
-Esse projeto só existe porque é feito por várias mãos. Contribuições são **muito bem-vindas**, especialmente:
+## Autor
 
-- Correções técnicas (o Bootstrap evolui — o que valia na versão 4 às vezes não vale mais na 5);
-- Novos exemplos de código e analogias melhores que as nossas;
-- Preenchimento dos módulos ainda marcados como 🚧 em construção;
-- Correções de português e clareza didática.
+- **Danilo de Brito Sampaio** - _Desenvolvedor de Software_ - [@danilo](https://x.com/danilobrown17)
 
-Antes de abrir uma PR, dá uma lida no [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## 📜 Licença
+## Licença
 
 Distribuído sob licença [MIT](LICENSE). Use, compartilhe, adapte — só mantenha os créditos.
 
-## 🙏 Créditos e Inspiração
-
-Inspirado na família de projetos **4noobs** (`git4noobs`, `vue4noobs`, `angular4noobs` e afins) e na documentação oficial do [Bootstrap](https://getbootstrap.com), que é ótima, mas às vezes densa demais pra quem está começando do zero.
-
 ---
 
-**Bora começar?** 👉 [Módulo 1: O que é Bootstrap e por que ele existe](modulos/01-o-que-e-bootstrap-e-mentalidade/README.md)
+<p align="center">
+  <a href="https://github.com/he4rt/4noobs" target="_blank">
+    <img src="./.github/footer_4noobs.svg" width="380">
+  </a>
+</p>
