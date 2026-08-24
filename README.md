@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="./.github/header_4noobs.svg">
+    <img src="https://raw.githubusercontent.com/he4rt/4noobs/master/.github/header_4noobs.svg" alt="4noobs">
   </a>
 </p>
 
@@ -63,7 +63,7 @@ Contribuições fazem com que a comunidade open source seja um lugar incrível p
 
 ## Autor
 
-- **Danilo de Brito Sampaio** - _Desenvolvedor de Software_ - [@danilo](https://x.com/danilobrown17)
+- **Danilo-Sam** - _Desenvolvedor de Software_ - [@Danilo-Sam](https://github.com/Danilo-Sam)
 
 ## Licença
 
@@ -73,6 +73,6 @@ Distribuído sob licença [MIT](LICENSE). Use, compartilhe, adapte — só mante
 
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="./.github/footer_4noobs.svg" width="380">
+    <img src="https://raw.githubusercontent.com/he4rt/4noobs/master/.github/footer_4noobs.svg" width="380" alt="4noobs footer">
   </a>
 </p>
