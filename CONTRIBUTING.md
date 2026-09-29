@@ -54,14 +54,14 @@ Para manter o guia agradável e consistente para quem está lendo, seguimos este
 
 ---
 
-## Estrutura de um módulo
+## Estrutura de um capítulo
 
-Todo módulo dentro da pasta `modulos/` fica em seu próprio diretório no formato `NN-nome-do-modulo/README.md` e deve seguir este esqueleto:
+Todo capítulo dentro da pasta `content/` recebe o nome no formato `NN-nome-do-capitulo.md` e deve seguir este esqueleto:
 
 ````markdown
-# Módulo NN: Título do Módulo 📐
+# NN - Título do Capítulo 📐
 
-[⬅️ Módulo Anterior](../NN-anterior/README.md) | [🏠 Início](../../README.md) | Próximo: [Módulo Seguinte →](../NN-proximo/README.md)
+[« NN - Anterior](NN-anterior.md) — [🏠 Índice](../README.md#roadmap) — [NN - Próximo »](NN-proximo.md)
 
 ---
 
@@ -92,7 +92,7 @@ Uma pequena tarefa prática para quem está lendo testar no navegador.
 ---
 
 <div align="center">
-  <a href="../NN-anterior/README.md">« Módulo Anterior</a> — <a href="../../README.md#roadmap">Índice</a> — <a href="../NN-proximo/README.md">Próximo Módulo »</a>
+  <a href="NN-anterior.md">« NN - Anterior</a> — <a href="../README.md#roadmap">Índice</a> — <a href="NN-proximo.md">NN - Próximo »</a>
 </div>
 ````
 

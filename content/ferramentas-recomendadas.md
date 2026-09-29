@@ -1,6 +1,6 @@
 # 🧰 Ferramentas Recomendadas
 
-[🏠 Início](../README.md)
+[« Glossário](glossario.md) — [🏠 Índice](../README.md#roadmap)
 
 Tudo nesta lista é **gratuito** e útil pra praticar Bootstrap no dia a dia.
 
@@ -26,3 +26,9 @@ Tudo nesta lista é **gratuito** e útil pra praticar Bootstrap no dia a dia.
 - **Bootstrap Examples (site oficial)** — exemplos oficiais mantidos pelo próprio time do framework.
 
 > 💡 Dica: nunca copie um template inteiro sem entender o que cada classe faz. O objetivo aqui é aprender, não só entregar bonito.
+
+---
+
+<div align="center">
+  <a href="glossario.md">« Glossário</a> — <a href="../README.md#roadmap">Índice</a>
+</div>

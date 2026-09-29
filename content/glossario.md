@@ -1,6 +1,6 @@
 # 📖 Glossário Bootstrap4Noobs
 
-[🏠 Início](../README.md)
+[« 06 - Projetos Práticos](06-projetos-praticos-proximos-passos.md) — [🏠 Índice](../README.md#roadmap) — [Ferramentas Recomendadas »](ferramentas-recomendadas.md)
 
 Termos técnicos, explicados sem economês. Ordem alfabética.
 
@@ -18,3 +18,9 @@ Termos técnicos, explicados sem economês. Ordem alfabética.
 | **data-bs-\*** | Atributos HTML que ativam comportamento de JavaScript do Bootstrap sem escrever código (ex: abrir modal) |
 
 > Sentiu falta de algum termo? Abra uma issue ou PR — veja o [CONTRIBUTING.md](../CONTRIBUTING.md).
+
+---
+
+<div align="center">
+  <a href="06-projetos-praticos-proximos-passos.md">« 06 - Projetos Práticos</a> — <a href="../README.md#roadmap">Índice</a> — <a href="ferramentas-recomendadas.md">Ferramentas Recomendadas »</a>
+</div>

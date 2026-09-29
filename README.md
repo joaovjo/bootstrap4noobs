@@ -40,12 +40,12 @@ Não é necessário saber CSS avançado. Ajuda saber o básico de HTML/CSS, mas 
 
 | # | Módulo | O que você vai aprender | Nível |
 |---|--------|--------------------------|-------|
-| 1 | [O que é Bootstrap e por que ele existe](modulos/01-o-que-e-bootstrap-e-mentalidade/README.md) | Frameworks CSS, mentalidade mobile-first, breakpoints, seu primeiro "Hello World" | 🟢 Iniciante |
-| 2 | [Grid System e Fundamentos](modulos/02-grid-system-fundamentos/README.md) | Container, Row, Column, o sistema de 12 colunas, como pensar em layout | 🟢 Iniciante |
-| 3 | [Componentes Essenciais](modulos/03-componentes-essenciais/README.md) | Navbar, Cards, Buttons, Forms, Modals, Alerts — os componentes que você vai usar toda semana | 🟡 Iniciante-Intermediário |
-| 4 | [Utilities e Customização](modulos/04-utilities-e-customizacao/README.md) | Classes utilitárias (spacing, flex, cores), Sass, variáveis CSS, como fugir da "cara de Bootstrap" | 🟡 Intermediário |
-| 5 | [Responsividade, Acessibilidade e Boas Práticas](modulos/05-responsividade-acessibilidade-boas-praticas/README.md) | Testar em múltiplas telas, atributos ARIA, erros comuns que todo iniciante comete | 🟡 Intermediário |
-| 6 | [Projetos Práticos e Próximos Passos](modulos/06-projetos-praticos-proximos-passos/README.md) | Montar uma landing page e um dashboard do zero, quando escolher Bootstrap x Tailwind | 🔴 Mão na massa |
+| 1 | [O que é Bootstrap e por que ele existe](content/01-o-que-e-bootstrap-e-mentalidade.md) | Frameworks CSS, mentalidade mobile-first, breakpoints, seu primeiro "Hello World" | 🟢 Iniciante |
+| 2 | [Grid System e Fundamentos](content/02-grid-system-fundamentos.md) | Container, Row, Column, o sistema de 12 colunas, como pensar em layout | 🟢 Iniciante |
+| 3 | [Componentes Essenciais](content/03-componentes-essenciais.md) | Navbar, Cards, Buttons, Forms, Modals, Alerts — os componentes que você vai usar toda semana | 🟡 Iniciante-Intermediário |
+| 4 | [Utilities e Customização](content/04-utilities-e-customizacao.md) | Classes utilitárias (spacing, flex, cores), Sass, variáveis CSS, como fugir da "cara de Bootstrap" | 🟡 Intermediário |
+| 5 | [Responsividade, Acessibilidade e Boas Práticas](content/05-responsividade-acessibilidade-boas-praticas.md) | Testar em múltiplas telas, atributos ARIA, erros comuns que todo iniciante comete | 🟡 Intermediário |
+| 6 | [Projetos Práticos e Próximos Passos](content/06-projetos-praticos-proximos-passos.md) | Montar uma landing page e um dashboard do zero, quando escolher Bootstrap x Tailwind | 🔴 Mão na massa |
 
 > 💡 **Dica:** siga a ordem. Ninguém aprende Componentes (Módulo 3) direito sem entender o Grid System (Módulo 2) antes — é a fundação de tudo no Bootstrap.
 

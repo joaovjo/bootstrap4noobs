@@ -1,6 +1,6 @@
-# Módulo 1: O que é Bootstrap e por que ele existe 🅱️
+# 01 - O que é Bootstrap e por que ele existe 🅱️
 
-[⬅️ Voltar para o início](../../README.md) | Próximo: [Módulo 2 →](../02-grid-system-fundamentos/README.md)
+[🏠 Início](../README.md#roadmap) — [02 - Grid System e Fundamentos »](02-grid-system-fundamentos.md)
 
 ---
 
@@ -120,6 +120,10 @@ Você está pronto pro Módulo 2 se consegue responder, sem colar:
 
 ---
 
-📖 Termos novos? Dá uma olhada no [Glossário](../../recursos/glossario.md).
+📖 Termos novos? Consulte o [Glossário](glossario.md) ou veja as [Ferramentas Recomendadas](ferramentas-recomendadas.md).
 
-➡️ **Próximo módulo:** [Grid System e Fundamentos](../02-grid-system-fundamentos/README.md)
+---
+
+<div align="center">
+  <a href="../README.md#roadmap">🏠 Índice</a> — <a href="02-grid-system-fundamentos.md">02 - Grid System e Fundamentos »</a>
+</div>
