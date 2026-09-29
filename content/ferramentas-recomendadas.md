@@ -1,8 +1,8 @@
-# 🧰 Ferramentas Recomendadas
+# Ferramentas Recomendadas
 
-[« Glossário](glossario.md) — [🏠 Índice](../README.md#roadmap)
+[« Glossário](glossario.md) — [Índice](../README.md#roadmap)
 
-Tudo nesta lista é **gratuito** e útil pra praticar Bootstrap no dia a dia.
+Tudo nesta lista é gratuito e útil para praticar Bootstrap no dia a dia.
 
 ## Para começar rápido (sem instalar nada)
 
@@ -25,7 +25,7 @@ Tudo nesta lista é **gratuito** e útil pra praticar Bootstrap no dia a dia.
 - **Start Bootstrap** — templates e temas gratuitos e open-source para desmontar e estudar.
 - **Bootstrap Examples (site oficial)** — exemplos oficiais mantidos pelo próprio time do framework.
 
-> 💡 Dica: nunca copie um template inteiro sem entender o que cada classe faz. O objetivo aqui é aprender, não só entregar bonito.
+> **Dica:** nunca copie um template inteiro sem entender o que cada classe faz. O objetivo aqui é aprender, não só entregar bonito.
 
 ---
 

@@ -1,6 +1,6 @@
-# 📖 Glossário Bootstrap4Noobs
+# Glossário Bootstrap4Noobs
 
-[« 06 - Projetos Práticos](06-projetos-praticos-proximos-passos.md) — [🏠 Índice](../README.md#roadmap) — [Ferramentas Recomendadas »](ferramentas-recomendadas.md)
+[« 06 - Projetos Práticos](06-projetos-praticos-proximos-passos.md) — [Índice](../README.md#roadmap) — [Ferramentas Recomendadas »](ferramentas-recomendadas.md)
 
 Termos técnicos, explicados sem economês. Ordem alfabética.
 

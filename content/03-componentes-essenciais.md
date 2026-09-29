@@ -1,8 +1,8 @@
-# 03 - Componentes Essenciais 🧩
+# 03 - Componentes Essenciais
 
-[« 02 - Grid System](02-grid-system-fundamentos.md) — [🏠 Índice](../README.md#roadmap) — [04 - Utilities e Customização »](04-utilities-e-customizacao.md)
+[« 02 - Grid System](02-grid-system-fundamentos.md) — [Índice](../README.md#roadmap) — [04 - Utilities e Customização »](04-utilities-e-customizacao.md)
 
-> 🚧 **Em construção — contribua!** Veja o [CONTRIBUTING.md](../CONTRIBUTING.md).
+> **Em construção — contribua!** Veja o [CONTRIBUTING.md](../CONTRIBUTING.md).
 
 ## O que este módulo vai cobrir
 

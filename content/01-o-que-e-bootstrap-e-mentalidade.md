@@ -1,6 +1,6 @@
-# 01 - O que é Bootstrap e por que ele existe 🅱️
+# 01 - O que é Bootstrap e por que ele existe
 
-[🏠 Início](../README.md#roadmap) — [02 - Grid System e Fundamentos »](02-grid-system-fundamentos.md)
+[Início](../README.md#roadmap) — [02 - Grid System e Fundamentos »](02-grid-system-fundamentos.md)
 
 ---
 
@@ -21,7 +21,7 @@ Antes de frameworks CSS existirem (e ainda hoje, quando alguém tenta reinventar
 
 O Bootstrap nasceu dentro do Twitter, em 2011, exatamente pra resolver isso: um conjunto de CSS e JavaScript prontos, testados por milhões de sites, que resolve os 80% do trabalho repetitivo pra você focar nos 20% que realmente importam pro seu projeto.
 
-> 💡 **Curiosidade:** o Bootstrap segue sendo, em 2026, um dos dois frameworks CSS mais usados do mundo (o outro é o Tailwind CSS) — não é uma tecnologia "morta" ou ultrapassada, é só uma ferramenta com um propósito diferente do Tailwind, como vamos ver mais adiante.
+> **Curiosidade:** o Bootstrap segue sendo, em 2026, um dos dois frameworks CSS mais usados do mundo (o outro é o Tailwind CSS) — não é uma tecnologia ultrapassada, é só uma ferramenta com um propósito diferente do Tailwind, como vamos ver mais adiante.
 
 ## 1.2 – O que é exatamente o Bootstrap?
 
@@ -29,18 +29,18 @@ Bootstrap é um **framework front-end** — um pacote de arquivos CSS e JavaScri
 
 - Um **sistema de grid** (grade) para organizar layout em colunas de forma responsiva;
 - **Componentes prontos**: botões, cards, formulários, menus de navegação, modais, alertas;
-- **Classes utilitárias**: pequenos "atalhos" de CSS para espaçamento, cor, alinhamento, sem escrever uma linha de CSS customizado;
+- **Classes utilitárias**: pequenos atalhos de CSS para espaçamento, cor, alinhamento, sem escrever uma linha de CSS customizado;
 - Comportamento em **JavaScript** para componentes interativos (dropdown, carrossel, modal), hoje escrito em JavaScript puro, sem depender de jQuery.
 
 ## 1.3 – Mobile-First: a mentalidade por trás do Bootstrap
 
-A regra de ouro do Bootstrap (e do design web moderno em geral) é: **projete primeiro para a tela pequena, depois vá "escalando" pra tela grande.**
+A regra de ouro do Bootstrap (e do design web moderno em geral) é: **projete primeiro para a tela pequena, depois vá escalando para a tela grande.**
 
-Por quê? Porque é mais fácil pegar um layout simples de celular e adicionar espaço/colunas pra tela grande do que pegar um layout complexo de desktop e tentar espremer tudo num celular sem quebrar nada.
+Por quê? Porque é mais fácil pegar um layout simples de celular e adicionar espaço e colunas para tela grande do que pegar um layout complexo de desktop e tentar espremer tudo num celular sem quebrar nada.
 
-> 💡 **Analogia:** é como fazer as malas para uma viagem. É mais fácil começar com o essencial (a mala pequena) e ir adicionando o que sobrar de espaço, do que fazer a mala enorme primeiro e depois tentar descobrir o que cortar pra caber na mochila.
+> **Analogia:** é como fazer as malas para uma viagem. É mais fácil começar com o essencial (a mala pequena) e ir adicionando o que sobrar de espaço, do que fazer a mala enorme primeiro e depois tentar descobrir o que cortar pra caber na mochila.
 
-## 1.4 – Breakpoints: os "pontos de quebra" do layout
+## 1.4 – Breakpoints: os pontos de quebra do layout
 
 O Bootstrap divide as telas em faixas de tamanho chamadas **breakpoints**. Cada uma tem um prefixo de classe:
 
@@ -55,17 +55,17 @@ O Bootstrap divide as telas em faixas de tamanho chamadas **breakpoints**. Cada 
 
 Isso vai fazer muito mais sentido no Módulo 2, quando falarmos do Grid System — mas grava esse conceito, porque ele aparece em praticamente toda classe do Bootstrap (`col-md-6`, `d-lg-flex`, etc.).
 
-## 1.5 – Seu primeiro "Hello World" com Bootstrap
+## 1.5 – Seu primeiro Hello World com Bootstrap
 
 O jeito mais rápido de começar (sem instalar nada) é usar o Bootstrap via CDN. Crie um arquivo `index.html` com este conteúdo:
 
 ```html
-<!doctype html>
-<html lang="pt-br">
+<!DOCTYPE html>
+<html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Meu primeiro Bootstrap</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Primeiros passos com Bootstrap</title>
   <link
     href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
     rel="stylesheet">
@@ -73,7 +73,7 @@ O jeito mais rápido de começar (sem instalar nada) é usar o Bootstrap via CDN
 <body>
 
   <div class="container mt-5">
-    <h1 class="text-primary">Oi, mundo Bootstrap! 👋</h1>
+    <h1 class="text-primary">Oi, mundo Bootstrap!</h1>
     <p class="lead">Isso aqui já está estilizado sem eu escrever uma linha de CSS.</p>
     <button type="button" class="btn btn-success">Meu primeiro botão</button>
   </div>
@@ -89,29 +89,29 @@ Abra esse arquivo no navegador. Repare: você não escreveu **nenhum** CSS custo
 
 ## 1.6 – Bootstrap x Tailwind x CSS puro: qual escolher?
 
-Essa pergunta é feita toda semana em algum fórum de dev, então vamos resolver de uma vez:
+Essa pergunta é feita toda semana em fóruns de desenvolvimento, então vamos analisar de forma objetiva:
 
-| | Bootstrap | Tailwind CSS | CSS puro |
+| Critério | Bootstrap | Tailwind CSS | CSS puro |
 |---|---|---|---|
 | Filosofia | Componentes prontos (botão, card, navbar já estilizados) | Classes utilitárias (você monta o visual combinando classes pequenas) | Você escreve tudo |
-| Velocidade para prototipar | 🟢 Muito rápida | 🟡 Rápida, mas com curva de aprendizado | 🔴 Lenta |
-| Visual "genérico" pronto | 🟡 Sim, precisa customizar pra fugir da "cara de Bootstrap" | 🟢 Não, o visual final é totalmente seu | 🟢 Não, é 100% seu |
-| Ideal para | Protótipos rápidos, dashboards internos, MVPs, quem não tem designer dedicado | Produtos com identidade visual forte e time de design definido | Aprender fundamentos ou projetos com necessidade visual muito específica |
+| Velocidade para prototipar | Muito rápida | Rápida, mas com curva de aprendizado | Lenta |
+| Visual pronto | Sim, precisa customizar para fugir do padrão | Não, o visual final é totalmente seu | Não, é 100% seu |
+| Cenário ideal | Protótipos rápidos, dashboards internos, MVPs, quem não tem designer dedicado | Produtos com identidade visual forte e time de design definido | Aprender fundamentos ou projetos com necessidade visual muito específica |
 
-> ⚠️ Nenhum dos três é "melhor" de forma absoluta — são ferramentas diferentes pra contextos diferentes. Quem diz que Bootstrap "morreu" geralmente só prefere outra ferramenta. Este guia foca em Bootstrap porque, para quem está começando, é o caminho mais rápido do zero a uma tela funcional e responsiva.
+> **Nota:** Nenhum dos três é melhor de forma absoluta — são ferramentas diferentes para contextos diferentes. Quem diz que Bootstrap "morreu" geralmente só prefere outra ferramenta. Este guia foca em Bootstrap porque, para quem está começando, é o caminho mais direto do zero a uma tela funcional e responsiva.
 
-## 1.7 – Mão na Massa 🛠️
+## 1.7 – Mão na massa
 
-Antes de seguir pro Módulo 2:
+Antes de seguir para o Módulo 2:
 
 - [ ] Crie o arquivo `index.html` da seção 1.5 e abra no navegador;
 - [ ] Troque `btn-success` por `btn-danger`, `btn-warning` e `btn-info` — veja o que muda;
 - [ ] Redimensione a janela do navegador (ou abra o DevTools em modo responsivo) e observe o que acontece com o texto e o espaçamento;
 - [ ] Escreva, com suas próprias palavras, o que significa "mobile-first" para alguém que nunca ouviu o termo.
 
-## 1.8 – Checklist de Saída do Módulo ✅
+## 1.8 – Checklist de saída do módulo
 
-Você está pronto pro Módulo 2 se consegue responder, sem colar:
+Você está pronto para o Módulo 2 se consegue responder, sem colar:
 
 - [ ] Por que frameworks CSS existem e qual problema eles resolvem;
 - [ ] O que significa "mobile-first" e por que essa ordem importa;
@@ -120,10 +120,10 @@ Você está pronto pro Módulo 2 se consegue responder, sem colar:
 
 ---
 
-📖 Termos novos? Consulte o [Glossário](glossario.md) ou veja as [Ferramentas Recomendadas](ferramentas-recomendadas.md).
+Termos novos? Consulte o [Glossário](glossario.md) ou veja as [Ferramentas Recomendadas](ferramentas-recomendadas.md).
 
 ---
 
 <div align="center">
-  <a href="../README.md#roadmap">🏠 Índice</a> — <a href="02-grid-system-fundamentos.md">02 - Grid System e Fundamentos »</a>
+  <a href="../README.md#roadmap">Índice</a> — <a href="02-grid-system-fundamentos.md">02 - Grid System e Fundamentos »</a>
 </div>

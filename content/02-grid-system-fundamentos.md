@@ -1,8 +1,8 @@
-# 02 - Grid System e Fundamentos 📐
+# 02 - Grid System e Fundamentos
 
-[« 01 - O que é Bootstrap](01-o-que-e-bootstrap-e-mentalidade.md) — [🏠 Índice](../README.md#roadmap) — [03 - Componentes Essenciais »](03-componentes-essenciais.md)
+[« 01 - O que é Bootstrap](01-o-que-e-bootstrap-e-mentalidade.md) — [Índice](../README.md#roadmap) — [03 - Componentes Essenciais »](03-componentes-essenciais.md)
 
-> 🚧 **Em construção — contribua!** Veja o [CONTRIBUTING.md](../CONTRIBUTING.md).
+> **Em construção — contribua!** Veja o [CONTRIBUTING.md](../CONTRIBUTING.md).
 
 ## O que este módulo vai cobrir
 

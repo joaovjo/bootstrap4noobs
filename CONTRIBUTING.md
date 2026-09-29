@@ -1,6 +1,6 @@
 # Como Contribuir com o Bootstrap4Noobs
 
-Ficamos muito felizes pelo seu interesse em colaborar! O **Bootstrap4Noobs** é um projeto comunitário, gratuito e aberto. Toda ajuda é bem-vinda: desde consertar um link quebrado ou corrigir uma classe do Bootstrap, até escrever um capítulo inteiro ou criar um exemplo de layout.
+Ficamos muito felizes pelo seu interesse em colaborar. O **Bootstrap4Noobs** é um projeto comunitário, gratuito e aberto. Toda ajuda é bem-vinda: desde consertar um link quebrado ou corrigir uma classe do Bootstrap, até escrever um capítulo inteiro ou criar um exemplo de layout.
 
 ---
 
@@ -50,7 +50,8 @@ Para manter o guia agradável e consistente para quem está lendo, seguimos este
 1. **Foco no iniciante absoluto:** Nunca assuma que a pessoa já sabe conceitos intermediários. Se usar um termo técnico como *breakpoint*, *viewport* ou *gutters*, explique brevemente o que significa antes de seguir.
 2. **Mostre o código em ação:** Evite teoria abstrata sem exemplo. Mostre a marcação HTML real e como as classes do Bootstrap afetam o visual.
 3. **Tom de dev real:** Escreva como se estivesse explicando algo para um colega ao lado no café. Sem linguagem empolada, sem jargões corporativos e sem clichês vazios gerados por IA (nada de "vamos mergulhar", "revolucionário" ou "sem mais delongas").
-4. **Alinhamento com a documentação oficial:** A base é a versão estável do Bootstrap 5 (https://getbootstrap.com/docs/5.3/). Não utilize classes obsoletas do Bootstrap 4 (como `form-row` ou `float-left`).
+4. **Sem excesso de emojis decorativos:** Não utilize emojis em títulos ou como marcadores artificiais. Mantenha a documentação limpa e profissional.
+5. **Alinhamento com a documentação oficial:** A base é a versão estável do Bootstrap 5 (https://getbootstrap.com/docs/5.3/). Não utilize classes obsoletas do Bootstrap 4 (como `form-row` ou `float-left`).
 
 ---
 
@@ -59,9 +60,9 @@ Para manter o guia agradável e consistente para quem está lendo, seguimos este
 Todo capítulo dentro da pasta `content/` recebe o nome no formato `NN-nome-do-capitulo.md` e deve seguir este esqueleto:
 
 ````markdown
-# NN - Título do Capítulo 📐
+# NN - Título do Capítulo
 
-[« NN - Anterior](NN-anterior.md) — [🏠 Índice](../README.md#roadmap) — [NN - Próximo »](NN-proximo.md)
+[« NN - Anterior](NN-anterior.md) — [Índice](../README.md#roadmap) — [NN - Próximo »](NN-proximo.md)
 
 ---
 
@@ -103,4 +104,4 @@ Uma pequena tarefa prática para quem está lendo testar no navegador.
 Temos um canal exclusivo para o projeto e outros guias da comunidade:
 Acesse o **Discord da HE4RT Developers**: https://discord.gg/he4rt e procure o canal `#4noobs`.
 
-Obrigado por ajudar a tornar a comunidade dev mais forte! 💜
+Obrigado por ajudar a tornar a comunidade dev mais forte!
