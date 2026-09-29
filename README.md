@@ -26,8 +26,7 @@
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License MIT"></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
-  <img src="https://img.shields.io/badge/feito%20com-%E2%98%95%20e%20CSS-orange.svg" alt="Feito com café e CSS">
-  <img src="https://img.shields.io/badge/n%C3%ADvel-absoluto%20zero-blueviolet.svg" alt="Nível: absoluto zero">
+  <img src="https://img.shields.io/badge/n%C3%ADvel-iniciante-blueviolet.svg" alt="Nível: iniciante">
 </p>
 
 <!-- ABOUT THE PROJECT -->
@@ -36,20 +35,20 @@
 
 > *"Você não precisa reinventar a roda. Precisa saber montar a roda que já existe."*
 
-Se você já tentou centralizar uma `div` na unha, com CSS puro, às 2h da manhã, e quase desistiu de programar — este repositório é pra você.
+Se você já tentou centralizar uma `div` na unha, com CSS puro, às 2h da manhã, e quase desistiu de programar, este repositório é para você.
 
-O **Bootstrap4Noobs** é um guia gratuito, open-source e em português, para tirar você do zero absoluto em **Bootstrap** (o framework CSS mais usado da história da web) e te deixar com base sólida pra montar interfaces responsivas rápido, sem depender de decoreba de classes e sem magia obscura.
+O **Bootstrap4Noobs** é um guia gratuito, open-source e em português, para tirar você do zero absoluto em **Bootstrap** (o framework CSS mais usado da história da web) e construir uma base sólida para montar interfaces responsivas rápido, sem decoreba de classes e sem depender de código pronto que você não compreende.
 
-Este projeto faz parte da iniciativa **4noobs** da comunidade **HE4RT Developers** (ao lado de guias como `git4noobs`, `devopness4noobs` e `ia4noobs`). A filosofia é a mesma: **direto ao ponto, sem economês, com analogias do mundo real e humor de dev saudável.**
+Este projeto faz parte da iniciativa **4noobs** da comunidade **HE4RT Developers** (ao lado de guias como `git4noobs`, `devopness4noobs` e `ia4noobs`). A filosofia é a mesma: direto ao ponto, com analogias do mundo real e foco em quem está aprendendo agora.
 
-### Para quem é esse guia?
+### Para quem é este guia?
 
-- Quem está começando em desenvolvimento web e quer sair do CSS puro sem complicar o workflow;
-- Quem já usa Bootstrap "copiando e colando" do site oficial e quer finalmente entender o porquê de cada classe;
+- Quem está começando em desenvolvimento web e quer sair do CSS puro sem complicar o fluxo de trabalho;
+- Quem já usa Bootstrap copiando e colando exemplos do site oficial e quer entender o funcionamento de cada classe;
 - Quem precisa prototipar telas rápido sem depender de um designer para cada detalhe visual;
 - Desenvolvedores back-end que precisam entregar interfaces funcionais e organizadas sem virar especialistas em CSS.
 
-Não é exigido CSS avançado. Saber o básico de tags HTML e propriedades simples de estilo já basta para acompanhar o guia.
+Não é exigido CSS avançado. Conhecer a estrutura básica do HTML e propriedades simples de estilo já basta para acompanhar o conteúdo.
 
 <!-- ROADMAP -->
 
@@ -57,19 +56,19 @@ Não é exigido CSS avançado. Saber o básico de tags HTML e propriedades simpl
 
 | # | Módulo | O que você vai aprender | Nível |
 |---|--------|--------------------------|-------|
-| 1 | [O que é Bootstrap e mentalidade](content/01-o-que-e-bootstrap-e-mentalidade.md) | Frameworks CSS, mentalidade mobile-first, breakpoints e o primeiro layout funcional | 🟢 Iniciante |
-| 2 | [Grid System e Fundamentos](content/02-grid-system-fundamentos.md) | Containers, rows, cols, o sistema de 12 colunas e como pensar em layout responsivo | 🟢 Iniciante |
-| 3 | [Componentes Essenciais](content/03-componentes-essenciais.md) | Navbar responsiva, Cards, Botões, Forms, Modals e Alerts | 🟡 Iniciante-Intermediário |
-| 4 | [Utilities e Customização](content/04-utilities-e-customizacao.md) | Utilitários de espaçamento, flexbox, variáveis CSS nativas e introdução ao Sass | 🟡 Intermediário |
-| 5 | [Responsividade, Acessibilidade e Boas Práticas](content/05-responsividade-acessibilidade-boas-praticas.md) | Testes em telas reais, atributos ARIA, contraste visual e erros comuns de iniciante | 🟡 Intermediário |
-| 6 | [Projetos Práticos e Próximos Passos](content/06-projetos-praticos-proximos-passos.md) | Passo a passo para construir uma Landing Page e um Dashboard, além do comparativo Bootstrap vs Tailwind | 🔴 Mão na massa |
+| 1 | [O que é Bootstrap e mentalidade](content/01-o-que-e-bootstrap-e-mentalidade.md) | Frameworks CSS, mentalidade mobile-first, breakpoints e o primeiro layout funcional | Iniciante |
+| 2 | [Grid System e Fundamentos](content/02-grid-system-fundamentos.md) | Containers, rows, cols, o sistema de 12 colunas e como pensar em layout responsivo | Iniciante |
+| 3 | [Componentes Essenciais](content/03-componentes-essenciais.md) | Navbar responsiva, Cards, Botões, Forms, Modals e Alerts | Iniciante-Intermediário |
+| 4 | [Utilities e Customização](content/04-utilities-e-customizacao.md) | Utilitários de espaçamento, flexbox, variáveis CSS nativas e introdução ao Sass | Intermediário |
+| 5 | [Responsividade, Acessibilidade e Boas Práticas](content/05-responsividade-acessibilidade-boas-praticas.md) | Testes em telas reais, atributos ARIA, contraste visual e erros comuns de iniciante | Intermediário |
+| 6 | [Projetos Práticos e Próximos Passos](content/06-projetos-praticos-proximos-passos.md) | Passo a passo para construir uma Landing Page e um Dashboard, além do comparativo Bootstrap vs Tailwind | Prático |
 
 ### Material de Apoio
 
-- 📖 [Glossário de Termos](content/glossario.md) — vocabulário essencial explicado sem enrolação.
-- 🧰 [Ferramentas Recomendadas](content/ferramentas-recomendadas.md) — editores online, extensões de acessibilidade e links oficiais.
+- [Glossário de Termos](content/glossario.md) — vocabulário essencial explicado de forma direta.
+- [Ferramentas Recomendadas](content/ferramentas-recomendadas.md) — editores online, extensões de acessibilidade e links oficiais.
 
-> 💡 **Dica de estudo:** siga a sequência proposta. O Grid System (Módulo 2) é o alicerce para posicionar qualquer Componente (Módulo 3) de forma sólida.
+> **Dica de estudo:** siga a sequência proposta. O Grid System (Módulo 2) é o alicerce para posicionar qualquer Componente (Módulo 3) de forma sólida.
 
 <!-- CONTRIBUTING -->
 
@@ -77,7 +76,7 @@ Não é exigido CSS avançado. Saber o básico de tags HTML e propriedades simpl
 
 O Bootstrap4Noobs é mantido pela comunidade e evolui com o apoio de quem estuda e programa no dia a dia. Se você encontrou um erro de digitação, pensou em um exemplo mais didático ou quer ajudar a escrever os próximos módulos:
 
-1. Dê uma olhada no nosso [Guia de Contribuição](CONTRIBUTING.md) para conhecer o fluxo de trabalho e o padrão de escrita.
+1. Consulte o nosso [Guia de Contribuição](CONTRIBUTING.md) para conhecer o fluxo de trabalho e o padrão de escrita.
 2. Respeite as diretrizes de convivência do nosso [Código de Conduta](CODE_OF_CONDUCT.md).
 3. Abra uma issue ou envie seu Pull Request diretamente no repositório.
 

@@ -4,15 +4,15 @@
 
 ## Tipo de alteração
 
-- [ ] ✏️ Correção pontual (typo, link quebrado ou classe CSS incorreta)
-- [ ] 📚 Melhoria ou aprofundamento de explicação existente
-- [ ] ✨ Novo capítulo, módulo ou exemplo prático de código
-- [ ] 🎨 Ajuste visual, imagens ou diagramas
-- [ ] 🔧 Governança, templates ou infraestrutura do repositório
+- [ ] Correção pontual (typo, link quebrado ou classe CSS incorreta)
+- [ ] Melhoria ou aprofundamento de explicação existente
+- [ ] Novo capítulo, módulo ou exemplo prático de código
+- [ ] Ajuste visual, imagens ou diagramas
+- [ ] Governança, templates ou infraestrutura do repositório
 
 ## Checklist de qualidade
 
-- [ ] Segui as diretrizes de escrita descritas no [CONTRIBUTING.md](CONTRIBUTING.md) (linguagem direta, sem jargões desnecessários, foco em quem está começando).
+- [ ] Segui as diretrizes de escrita descritas no [CONTRIBUTING.md](CONTRIBUTING.md) (linguagem direta, sem jargões desnecessários, sem emojis decorativos, foco em quem está começando).
 - [ ] Todos os blocos de código possuem a linguagem especificada (ex: ````html````, ````css````, ````bash````).
 - [ ] Testei os trechos de HTML/CSS no navegador para confirmar que o layout funciona como explicado.
 - [ ] Se adicionei ou renomeei arquivos, atualizei os links de navegação interna e a tabela de ROADMAP no [README.md](README.md).

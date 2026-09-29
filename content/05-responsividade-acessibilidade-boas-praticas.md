@@ -1,8 +1,8 @@
-# 05 - Responsividade, Acessibilidade e Boas Práticas ♿
+# 05 - Responsividade, Acessibilidade e Boas Práticas
 
-[« 04 - Utilities e Customização](04-utilities-e-customizacao.md) — [🏠 Índice](../README.md#roadmap) — [06 - Projetos Práticos »](06-projetos-praticos-proximos-passos.md)
+[« 04 - Utilities e Customização](04-utilities-e-customizacao.md) — [Índice](../README.md#roadmap) — [06 - Projetos Práticos »](06-projetos-praticos-proximos-passos.md)
 
-> 🚧 **Em construção — contribua!** Veja o [CONTRIBUTING.md](../CONTRIBUTING.md).
+> **Em construção — contribua!** Veja o [CONTRIBUTING.md](../CONTRIBUTING.md).
 
 ## O que este módulo vai cobrir
 

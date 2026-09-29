@@ -1,8 +1,8 @@
-# 04 - Utilities e Customização 🎨
+# 04 - Utilities e Customização
 
-[« 03 - Componentes Essenciais](03-componentes-essenciais.md) — [🏠 Índice](../README.md#roadmap) — [05 - Responsividade e Acessibilidade »](05-responsividade-acessibilidade-boas-praticas.md)
+[« 03 - Componentes Essenciais](03-componentes-essenciais.md) — [Índice](../README.md#roadmap) — [05 - Responsividade e Acessibilidade »](05-responsividade-acessibilidade-boas-praticas.md)
 
-> 🚧 **Em construção — contribua!** Veja o [CONTRIBUTING.md](../CONTRIBUTING.md).
+> **Em construção — contribua!** Veja o [CONTRIBUTING.md](../CONTRIBUTING.md).
 
 ## O que este módulo vai cobrir
 

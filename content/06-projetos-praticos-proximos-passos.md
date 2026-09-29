@@ -1,14 +1,14 @@
-# 06 - Projetos Práticos e Próximos Passos 🚀
+# 06 - Projetos Práticos e Próximos Passos
 
-[« 05 - Responsividade e Acessibilidade](05-responsividade-acessibilidade-boas-praticas.md) — [🏠 Índice](../README.md#roadmap) — [Glossário »](glossario.md)
+[« 05 - Responsividade e Acessibilidade](05-responsividade-acessibilidade-boas-praticas.md) — [Índice](../README.md#roadmap) — [Glossário »](glossario.md)
 
-> 🚧 **Em construção — contribua!** Veja o [CONTRIBUTING.md](../CONTRIBUTING.md).
+> **Em construção — contribua!** Veja o [CONTRIBUTING.md](../CONTRIBUTING.md).
 
 ## O que este módulo vai cobrir
 
 - Dois projetos práticos completos, passo a passo, pra colocar no portfólio;
-- Projeto 1: Uma **Landing Page** moderna para um produto fictício;
-- Projeto 2: Um **Dashboard administrativo** simples com sidebar, cards e tabela;
+- Projeto 1: Uma Landing Page moderna para um produto fictício;
+- Projeto 2: Um Dashboard administrativo simples com sidebar, cards e tabela;
 - Bootstrap no mundo real: integrando com React, Vue e frameworks modernos;
 - Quando continuar com Bootstrap e quando migrar para Tailwind ou CSS customizado;
 - Próximos passos e onde continuar estudando.
