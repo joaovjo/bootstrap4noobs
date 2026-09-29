@@ -1,8 +1,8 @@
-# Módulo 2: Grid System e Fundamentos 📐
+# 02 - Grid System e Fundamentos 📐
 
-[⬅️ Módulo 1](../01-o-que-e-bootstrap-e-mentalidade/README.md) | [🏠 Início](../../README.md) | Próximo: [Módulo 3 →](../03-componentes-essenciais/README.md)
+[« 01 - O que é Bootstrap](01-o-que-e-bootstrap-e-mentalidade.md) — [🏠 Índice](../README.md#roadmap) — [03 - Componentes Essenciais »](03-componentes-essenciais.md)
 
-> 🚧 **Em construção — contribua!** Veja o [CONTRIBUTING.md](../../CONTRIBUTING.md).
+> 🚧 **Em construção — contribua!** Veja o [CONTRIBUTING.md](../CONTRIBUTING.md).
 
 ## O que este módulo vai cobrir
 
@@ -20,3 +20,9 @@
 4. Combinando breakpoints diferentes na mesma linha (layout que muda por tamanho de tela);
 5. Mão na Massa: montar uma página com 3 cards lado a lado no desktop e empilhados no celular;
 6. Checklist de saída.
+
+---
+
+<div align="center">
+  <a href="01-o-que-e-bootstrap-e-mentalidade.md">« 01 - O que é Bootstrap</a> — <a href="../README.md#roadmap">Índice</a> — <a href="03-componentes-essenciais.md">03 - Componentes Essenciais »</a>
+</div>
