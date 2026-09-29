@@ -7,7 +7,7 @@ Ficamos muito felizes pelo seu interesse em colaborar! O **Bootstrap4Noobs** é 
 ## Antes de começar
 
 - **Mudanças pequenas (typos, links, correções pontuais):** pode abrir o Pull Request direto.
-- **Mudanças grandes (novo módulo, reestruturação de conteúdo ou exemplos complexos):** [abra uma issue primeiro](https://github.com/joaovjo/bootstrap4noobs/issues) para alinharmos a ideia antes de você gastar horas escrevendo código.
+- **Mudanças grandes (novo módulo, reestruturação de conteúdo ou exemplos complexos):** abra uma issue primeiro para alinharmos a ideia antes de você gastar horas escrevendo código.
 
 ---
 
@@ -54,12 +54,16 @@ Para manter o guia agradável e consistente para quem está lendo, seguimos este
 
 ---
 
-## Estrutura de um capítulo
+## Estrutura de um módulo
 
-Todo capítulo dentro da pasta `content/` recebe o nome no formato `NN-nome-do-capitulo.md` e deve seguir este esqueleto:
+Todo módulo dentro da pasta `modulos/` fica em seu próprio diretório no formato `NN-nome-do-modulo/README.md` e deve seguir este esqueleto:
 
 ````markdown
-# NN - Título do Capítulo 📐
+# Módulo NN: Título do Módulo 📐
+
+[⬅️ Módulo Anterior](../NN-anterior/README.md) | [🏠 Início](../../README.md) | Próximo: [Módulo Seguinte →](../NN-proximo/README.md)
+
+---
 
 Parágrafo curto explicando a dor real: qual problema este recurso resolve e por que ele existe.
 
@@ -88,7 +92,7 @@ Uma pequena tarefa prática para quem está lendo testar no navegador.
 ---
 
 <div align="center">
-  <a href="NN-anterior.md">« NN - Capítulo Anterior</a> — <a href="../README.md#roadmap">Índice</a> — <a href="NN-proximo.md">NN - Próximo Capítulo »</a>
+  <a href="../NN-anterior/README.md">« Módulo Anterior</a> — <a href="../../README.md#roadmap">Índice</a> — <a href="../NN-proximo/README.md">Próximo Módulo »</a>
 </div>
 ````
 

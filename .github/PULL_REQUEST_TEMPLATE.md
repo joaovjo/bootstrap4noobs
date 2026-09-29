@@ -12,10 +12,10 @@
 
 ## Checklist de qualidade
 
-- [ ] Segui as diretrizes de escrita descritas no [CONTRIBUTING.md](../CONTRIBUTING.md) (linguagem direta, sem jargões desnecessários, foco em quem está começando).
+- [ ] Segui as diretrizes de escrita descritas no [CONTRIBUTING.md](CONTRIBUTING.md) (linguagem direta, sem jargões desnecessários, foco em quem está começando).
 - [ ] Todos os blocos de código possuem a linguagem especificada (ex: ````html````, ````css````, ````bash````).
 - [ ] Testei os trechos de HTML/CSS no navegador para confirmar que o layout funciona como explicado.
-- [ ] Se adicionei ou renomeei arquivos, atualizei os links de navegação interna e a tabela de ROADMAP no [README.md](../README.md).
+- [ ] Se adicionei ou renomeei arquivos, atualizei os links de navegação interna e a tabela de ROADMAP no [README.md](README.md).
 - [ ] Não incluí arquivos binários desnecessários nem alterei permissões indevidamente.
 
 ## Observações ou dúvidas para a revisão

@@ -8,7 +8,7 @@ assignees: ''
 
 ### Onde está o erro?
 
-<!-- Indique o arquivo e a seção onde você notou o problema. Se tiver o link direto para a linha, melhor ainda. Exemplo: content/02-grid-system-fundamentos.md na seção 'Gutters'. -->
+<!-- Indique o arquivo e a seção onde você notou o problema. Se tiver o link direto para a linha, melhor ainda. Exemplo: modulos/02-grid-system-fundamentos/README.md na seção 'Gutters'. -->
 
 ### O que está errado?
 
